@@ -1,4 +1,4 @@
-public class Suma {
+public class Resta {
     int a, b, r;
 
     public int sumar() {
